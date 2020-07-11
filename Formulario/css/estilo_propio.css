@@ -1,0 +1,102 @@
+.fondo_1{
+	background-color: #191970;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align: center;
+}
+.fondo_2{
+	background-color: #000080;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align: center;
+}
+.fondo_3{
+	background-color: #00008B;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align: center;
+}
+
+
+.fondo_01{
+	background-color: #0000CD;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align: center;
+}
+.fondo_02{
+	background-color: #0000FF;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align: center;
+}
+.fondo_03{
+	background-color: #4169E1;
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align: center;
+}
+
+h1{
+text-align:center; 
+color: #02FDFD;
+font-family:;
+letter-spacing: 0.5;
+text-shadow:;
+}
+
+h2{
+ 
+color:#0000CD ;
+font-family:;
+letter-spacing: 0.5;
+text-shadow: , ;
+}
+
+h3{
+ 
+color:#00FFFF;
+font-family:;
+letter-spacing: 0.5;
+text-shadow: -;
+}
+
+p{
+ 
+color:#7FFFD4;
+font-family: Comic Sans MS;
+letter-spacing: 0.5;
+text-shadow: ;
+}
+th{
+text-align:center; 
+color: YELLOW;
+font-family: Comic Sans MS;
+font-size:;
+letter-spacing: 0.5;
+text-shadow: ;
+}
+
+label{
+ 
+color:#0000CD ;
+font-family: Comic Sans MS;
+letter-spacing: 0.5;
+text-shadow: ;
+}
+td{
+text-align:center; 
+color: #0000FF;
+font-family: Comic Sans MS;
+font-size:;
+letter-spacing: 0.5;
+text-shadow: ;
+}
+
+body {
+ background: url("IMG/FU.jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}

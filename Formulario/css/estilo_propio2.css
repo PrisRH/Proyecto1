@@ -1,0 +1,25 @@
+
+body{
+	background:#c3e6cb; 
+		background-position:center;  
+		}
+div ul li{
+	color: black;
+}
+
+
+h1{
+text-align:center; 
+color:white;
+font-family: 'Noto Sans JP', sans-serif;
+letter-spacing: 0.5;
+text-shadow:;
+}
+
+
+
+
+
+.espacio{
+	margin-top: 10px; 
+}
